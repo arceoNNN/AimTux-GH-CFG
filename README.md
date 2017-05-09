@@ -8,3 +8,13 @@ Here are my [AimTux](https://github.com/AimTuxOfficial/AimTux) Grenade Helper Co
 2. Copy all the files to there (or the ones you want to use).
 3. Enter a map, enable Grenade Helper.
 4. Profit $$$
+
+# Maps
+- [x] de_dust2
+- [x] de_mirage
+- [ ] de_cache (W.I.P)
+- [ ] de_inferno (W.I.P)
+- [ ] de_train
+- [ ] de_cbble
+- [ ] de_overpass
+- [ ] de_nuke
