@@ -29,9 +29,11 @@ Here are my [AimTux](https://github.com/AimTuxOfficial/AimTux) Grenade Helper Co
 
 **A:** Press <kbd>CTRL</kbd> + <kbd>H</kbd> when you're in your home directory. You should be able to see it now.
 
+
 **Q:** Grenade helper dot doesn't appear even when I'm in the correct place.
 
 **A:** Some smokes are thrown while crouching. Try crouching, it should appear.
+
 
 **Q:** I'm throwing the smoke exactly as shown but it lands in somewhere stupid.
 
